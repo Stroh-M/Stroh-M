@@ -31,7 +31,7 @@ Feel free to reach out to me if you:
 - Want to collaborate on a project.
 - Have tips or resources for learning web development.
 
-You can contact me via [meirstroh@gmail.com](mailto:meirstroh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/meir-stroh-a95b11318).
+You can contact me via [meirstroh@gmail.com](mailto:meirstroh@gmail.com).
 
 ---
 
