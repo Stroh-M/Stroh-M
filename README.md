@@ -32,7 +32,7 @@ Feel free to reach out to me if you:
 - Want to collaborate on a project.
 - Have tips or resources for learning web development.
 
-You can contact me via [meirstroh@gmail.com](mailto:meirstroh@gmail.com).
+You can contact me via [meirstroh6@gmail.com](mailto:meirstroh6@gmail.com).
 
 ---
 
