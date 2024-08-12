@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm an aspiring web developer currently taking an 
 - **JavaScript**: Adding interactivity and dynamic behavior.
 - **Node.js**: Server-side development.
 - **Express**: Web application framework for Node.js.
+- **PostgreSQL**: Database. 
 
 ## My Goals
 
